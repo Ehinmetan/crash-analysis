@@ -1,10 +1,10 @@
-#Airplane crash-analysis.
+# Airplane crash-analysis.
 
 capstone project of NG30DaysofLearning
 
 .....
 
-#Problem Statement
+# Problem Statement
 
 The goal of analysing this data is to get insights that answers this question:
 
@@ -19,12 +19,12 @@ The goal of analysing this data is to get insights that answers this question:
 5.which country and location has the highest numberof crashes?
 .....
 
-#DATA sourcing
+# DATA sourcing
 
 The data used for this analysis was provided by NG30DaydofLearning,originally gotten from kaggle(https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908)
 .....
 
-#Data Cleaning
+# Data Cleaning
 
 The data set was explored and analyzed to determine the quality of the data.some of the analysis carried out includes:
 
