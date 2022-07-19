@@ -45,3 +45,23 @@ After cleaning the data via power query, the data was then imported into Microso
 
 https://github.com/Ehinmetan/crash-analysis/blob/main/Capture%20CRASH.JPG
 
+# Insights\Findings
+
+1.Total number of crashes between 1908-2009 was 5236
+
+2.Orville Wrightvin in 1908 during a demonstation flight in Virginia,caused when one of two propellers separated in flight.He sustained serious injuries while the other passengerLTE.selfridge suffered skull damage and later died
+
+3.Weather was the major causes of plane crash,which account for moe than 1600 of the total crashes
+
+4.1972 was the year with the highest amount of crashes(104).This is also the year with highest fatalities
+
+5.Russia  has the highest number of crashes because they own the aeroflat airline which the operator with most crash
+
+Tenerife is the location with most fatalities because of the incident that happen in 1997 when two plane collide
+
+# Conclusion\Recommendation
+
+Special attention should be given to countries where most crashes has occurred in order to reduce futher occurrences
+
+Plane crashes are most likely caused by Weather condition,Airline operators should make good use of weather forecast information in planning flight time
+
