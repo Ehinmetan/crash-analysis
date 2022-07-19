@@ -37,8 +37,9 @@ The data set was explored and analyzed to determine the quality of the data.some
 *creating new entries from existing column
 
 *check and change every column to a suitable data type
-.....
 
-#Data visualization
+
+# Data visualization
 
 After cleaning the data via power query, the data was then imported into Microsoft powerBi to build a dashboard that will help have a clear picture of the major problem
+
