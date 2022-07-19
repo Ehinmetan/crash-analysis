@@ -2,7 +2,7 @@
 
 capstone project of NG30DaysofLearning
 
-.....
+
 
 # Problem Statement
 
@@ -17,12 +17,12 @@ The goal of analysing this data is to get insights that answers this question:
 4.Which year did most crashes occur
 
 5.which country and location has the highest numberof crashes?
-.....
+
 
 # DATA sourcing
 
 The data used for this analysis was provided by NG30DaydofLearning,originally gotten from kaggle(https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908)
-.....
+
 
 # Data Cleaning
 
