@@ -1,3 +1,4 @@
+![Capture CRASH](https://user-images.githubusercontent.com/107497635/179857010-8120c58f-443e-4ae9-b87e-683e50899acf.JPG)
 # Airplane crash-analysis.
 
 capstone project of NG30DaysofLearning
