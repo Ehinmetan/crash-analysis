@@ -65,4 +65,3 @@ Tenerife is the location with most fatalities because of the incident that happe
 Special attention should be given to countries where most crashes has occurred in order to reduce futher occurrences
 
 Plane crashes are most likely caused by Weather condition,Airline operators should make good use of weather forecast information in planning flight time
-
