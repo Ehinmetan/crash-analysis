@@ -9,6 +9,8 @@ Table of content
 
 - [Problem Statement](https://github.com/Ehinmetan/crash-analysis/blob/main/README.md#problem-statement)
 
+- [Data Sourcing](https://github.com/Ehinmetan/crash-analysis/blob/main/README.md#data-sourcing)
+
 # Introduction
 This analysis focuses on understanding the patterns, causes, and impact of airplane crashes across the world. The objective is to uncover insights that answer specific questions on the total number of crashes, their causes, the year and location with the most incidents, and the first recorded crash. These insights can help guide aviation safety improvements, policy recommendations, and risk assessments.
 
@@ -27,7 +29,7 @@ The goal of analysing this data is to get insights that answers this question:
 5.which country and location has the highest numberof crashes?
 
 
-# DATA sourcing
+# Data Sourcing
 
 The data used for this analysis was provided by NG30DaydofLearning,originally gotten from kaggle(https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908)
 
