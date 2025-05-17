@@ -61,9 +61,11 @@ The data set was explored and analyzed to determine the quality of the data.some
 
 After cleaning the data via power query, the data was then imported into Microsoft powerBi to build a dashboard that will help have a clear picture of the major problem
 
-![Capture CRASH](https://user-images.githubusercontent.com/107497635/179857010-8120c58f-443e-4ae9-b87e-683e50899acf.JPG)
+!![plane crash 1](https://github.com/user-attachments/assets/86e9f096-7d3a-4ef4-a641-dd9ee7791b3f)
 
-![octave 2](https://github.com/user-attachments/assets/2eb26e9f-890a-4fff-b911-c50a304268b9)
+
+!![plane crash 2](https://github.com/user-attachments/assets/36b63a3e-ce89-498e-b5be-e78beb9394a4)
+
 
 
 # Insights\Findings
