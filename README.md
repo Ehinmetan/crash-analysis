@@ -15,6 +15,8 @@ Table of content
 
 - [Data Visualization](https://github.com/Ehinmetan/crash-analysis/blob/main/README.md#data-visualization)
 
+- [Insight/Findings](https://github.com/Ehinmetan/crash-analysis/blob/main/README.md#insightsfindings)
+
 # Introduction
 This analysis focuses on understanding the patterns, causes, and impact of airplane crashes across the world. The objective is to uncover insights that answer specific questions on the total number of crashes, their causes, the year and location with the most incidents, and the first recorded crash. These insights can help guide aviation safety improvements, policy recommendations, and risk assessments.
 
